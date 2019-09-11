@@ -3,7 +3,7 @@
 
 
 <p align="center">
-    <img src="http://git-assets.react-starter-kit.com/logo.png">  
+    <img src="https://raw.githubusercontent.com/arunavkonwar/no-cyber-bullies/master/no-cyber-bullies-logo.PNG">  
 </p>
 
 
